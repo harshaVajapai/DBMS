@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    margin: 0;
+    opacity: 0.4;
+}
+.color{
+    height: 100vh;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    right: 0;
+    background-color: rgba(255,255,255,0.5);
+}
+div h1{
+    text-align: center;
+    padding: 15% 0% 0% 0%;
+    display: inline;
+    
+    margin: 0;
+    color: red;
+}
+#content{
+    
+}
+hr{
+    width:400px;
+}
+img{
+    height: 100vh;
+    width: 100vw;
+}
